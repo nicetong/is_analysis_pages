@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb529c8-35e9-462f-b1a9-4f11b9a9a90c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test6/ui/修改用户信息.html" afterPath="$PROJECT_DIR$/test6/ui/修改用户信息.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="修改用户信息.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="修改用户信息.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test6/ui/修改用户信息.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="1431">
               <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
               <folding />
             </state>
@@ -103,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="查看用户信息.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="查看用户信息.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test6/ui/查看用户信息.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2835">
@@ -394,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590412927091</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test6">
+      <created>1590413032810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590413032810</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,14 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test6/ui/修改用户信息.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test6/ui/发布实验.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4250">
@@ -581,6 +579,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2835">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/ui/修改用户信息.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
           <folding />
         </state>
       </provider>
